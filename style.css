@@ -74,6 +74,7 @@ nav .hamburger_menu {
 @media (max-width: 576px) {
   .me {
     display: grid;
+    height: max-content;
   }
 }
 .me .left {

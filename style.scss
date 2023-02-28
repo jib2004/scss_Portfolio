@@ -84,6 +84,8 @@ nav{
 
     @media (max-width: 576px) {
         display: grid;
+        // border: 1px solid;
+       height: max-content;
            
     }
 
@@ -93,6 +95,8 @@ nav{
 
         img{
             height: 100%;
+        // border: 1px solid;
+
             width: 100%;
         }
 
@@ -115,6 +119,8 @@ nav{
         @media (max-width: 576px) {
             width: 100vw;   
             height: auto;
+        // border: 1px solid;
+
             align-items: center;
             justify-content: center; 
             padding: 20px; 
